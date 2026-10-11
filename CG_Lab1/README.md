@@ -19,26 +19,18 @@ To write a C++ program using the `graphics.h` library to draw the following basi
 * GCC / MinGW
 * Visual Studio Code
 
-### Program File
-
-**File:** `CGM_LabAssignment1_BasicShapes.cpp`
-
 ### Graphics Primitives
 
-**1. Straight Line**
-
+1. Straight Line
 A straight line is drawn between two specified points using the `line()` function.
 
-**2. Circle**
-
+2. Circle
 A circle is drawn using the `circle()` function by specifying its center coordinates and radius.
 
-**3. Rectangle**
-
+3. Rectangle
 A rectangle is drawn using the `rectangle()` function by specifying its top-left and bottom-right coordinates.
 
-**4. Triangle**
-
+4. Triangle
 A triangle is created by drawing three connected straight lines using the `line()` function.
 
 ### Functions Used
@@ -73,7 +65,7 @@ The program displays the following four graphics primitives in a single graphics
 
 #### Output Screenshot
 
-![Program Output](Screenshot.png)
+![Program Output](output1.png)
 
 ### Requirements
 
